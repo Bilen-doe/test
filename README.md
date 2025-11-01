@@ -1,6 +1,6 @@
 # React + Vite Bilen's Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hallo guy's follow the following steps to copy and run my project
 
 Currently, two official plugins are available:
 
