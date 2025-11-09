@@ -1,5 +1,6 @@
 
-function message () {
-    return <h1> Hello world</h1>;
+function Message () {
+    return <h1> Hello World</h1>;
 }
-export default message;
+
+export default Message;
