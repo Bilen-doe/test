@@ -2,4 +2,4 @@ import message from './message';
 function () {
   return <div><message /></div>;
 }
-export default App;
+export default app;
