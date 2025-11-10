@@ -1,5 +1,19 @@
-import Message from '. /Message';
-function () {
-  return <div><Message /></div>;
-}
-export default app;
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World with Phone Input</title>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <!-- React + ReactDOM -->
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <!-- Your JSX code -->
+    <script type="text/babel">
+      // Paste the JSX code from above here
+    </script>
+  </body>
+</html>
